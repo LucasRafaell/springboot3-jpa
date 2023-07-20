@@ -15,7 +15,7 @@
   <p><b>Repository</b>: responsávle comunicaçào direta com a base de dados, oferecendo uma abstração dos dados para o acesso, permitindo que a camada service manipule os dados sem se preocupar como os dados serão buscados ou armazenados.</p>
   
 ### - Configurar banco de dados de teste (H2)
-  
+  ![h2](https://github.com/LucasRafaell/springboot3-jpa/assets/99283985/be7ad659-f9b2-4949-bbb0-777e878a5895)
   
 ### - CRUD – Create, Tetrieve, Update, Delete
 
@@ -25,5 +25,15 @@
    ![Domain Instance](https://github.com/LucasRafaell/springboot3-jpa/assets/99283985/f403df2f-2078-4166-a434-23f87d037a8b)
   
 ### Linguagem, framework e ferramentas utilizadas
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="70" width="70"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Spring" height="70" width="70"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />  
+  <img align="center" alt="Spring" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />  
+  <img align="center" alt="Spring" height="70" width="70"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />     
   <p>Java, Spring Boot, Apache Tomcat, Maven, H2, Postman e Postegres</p>
-  image
+</div>
+  
+  
