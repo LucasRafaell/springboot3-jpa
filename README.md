@@ -17,7 +17,7 @@
 ### - Configurar banco de dados de teste (H2)
   ![h2](https://github.com/LucasRafaell/springboot3-jpa/assets/99283985/be7ad659-f9b2-4949-bbb0-777e878a5895)
   
-### - CRUD – Create, Tetrieve, Update, Delete
+### - CRUD – Create, Retrieve, Update, Delete
 
 ### - Tratamento de exceções
 
