@@ -1,8 +1,12 @@
-# O projeto web services com Spring Boot e JPA / Hibernate tem como objetivo:
+# Projeto web services com Spring Boot e JPA / Hibernate 
+
+## Tem como objetivo:
 
 ### - Criar um projeto Spring Boot Java 
+
 ### - Implementar o modelo de domínio
-  image
+  ![Domain Instance](https://github.com/LucasRafaell/springboot3-jpa/assets/99283985/f403df2f-2078-4166-a434-23f87d037a8b)
+  
 ### - Estruturar o projeto por meio de camadas lógicas: Resource, Service e Repository
   image
   <p>Resource: são controladores da interface com o backend, recebendo requisições e respondendo-as de acordo com o comportamento do sistema.</p>
