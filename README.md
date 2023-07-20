@@ -5,7 +5,7 @@
 ### - Criar um projeto Spring Boot Java 
 
 ### - Implementar o modelo de domínio
-  ![Domain Instance](https://github.com/LucasRafaell/springboot3-jpa/assets/99283985/f403df2f-2078-4166-a434-23f87d037a8b)
+  ![Domain Model](https://github.com/LucasRafaell/springboot3-jpa/assets/99283985/f8dc74ce-4a7e-4989-8f4c-6d23e480322e) 
   
 ### - Estruturar o projeto por meio de camadas lógicas: Resource, Service e Repository
   image
@@ -21,7 +21,7 @@
 ### - Tratamento de exceções
 
 ### - Instancia de Objetos para criar a base de dados de forma automática e em seguida povoar com uma carga de dados inicial
-  image
+   ![Domain Instance](https://github.com/LucasRafaell/springboot3-jpa/assets/99283985/f403df2f-2078-4166-a434-23f87d037a8b)
   
 ### Linguagem, framework e ferramentas utilizadas
   <p>Java, Spring Boot, Apache Tomcat, Maven, H2, Postman e Postegres</p>
