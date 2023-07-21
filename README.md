@@ -35,7 +35,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-w
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  
   <img align="center" alt="Spring" height="70" width="70"
   src="https://github.com/LucasRafaell/springboot3-jpa/assets/99283985/be7ad659-f9b2-4949-bbb0-777e878a5895" /> 
-  <p>Java, Spring Boot, Apache Tomcat, Maven, H2, Postman e Postegres</p>
+  
+  <p>Java, Spring Boot, Apache Tomcat, Postegres, H2, Postman e Maven</p>
 </div>
   
   
